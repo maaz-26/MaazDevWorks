@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-# Replace with the final production domain before deployment.
-Sitemap: https://YOUR-FINAL-DOMAIN.com/sitemap.xml
+Sitemap: https://maaz-dev-works-vert.vercel.app/sitemap.xml
